@@ -1,0 +1,13 @@
+body {
+    margin: 0, auto;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.btn {
+    max-width: 15%;
+    margin: 3%;
+}
